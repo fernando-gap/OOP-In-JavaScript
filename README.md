@@ -8,4 +8,4 @@ What is the different of class-based to prototype-based? With these questions I 
 
 ## Example
 
-I make this example of prototype using node.js, enojoy!
+I make this example of prototype using node.js, enjoy!
